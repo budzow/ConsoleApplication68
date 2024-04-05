@@ -7,7 +7,7 @@ int main()
 {
 }
 
-string func(string* l, bool b1, bool b2, bool b3, bool b4, bool b5, bool b6) {
+void func(string* l, bool b1, bool b2, bool b3, bool b4, bool b5, bool b6) {
     if (b1)
         if (b2)
             if (b3)
