@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
 }
 
 string func(string* l, bool b1, bool b2, bool b3, bool b4, bool b5, bool b6) {
